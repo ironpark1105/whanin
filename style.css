@@ -35,7 +35,7 @@ header{
 }
 .header img{
     width: 143px;
-    height: 50px;
+    height: 40px;
     margin: 20px 0;
 }
 .header-nav ul{
@@ -307,7 +307,8 @@ padding-top: 12px;
     padding-left: 8px;
 }
 .img{
-    padding-top: 70px;
+    width: 143px;
+    padding-top: 30px;
     margin: 0 auto;
 }
 .img-box p{
